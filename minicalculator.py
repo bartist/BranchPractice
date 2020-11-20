@@ -1,3 +1,4 @@
+### Python easy calculator ###
 Kwadraten = []
 
 while True:
